@@ -145,3 +145,6 @@ Possible enhancements include:
 EF2039 AI Programming — Term Project 02
 
 ---
+This README was updated after completing the main implementation.
+
+
