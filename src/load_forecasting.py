@@ -4,6 +4,7 @@
 # This script loads the continuous_dataset.csv file, constructs
 # time-series features, trains several regression models, and
 # evaluates their performance on an hourly load forecasting task.
+# TODO: Consider experimenting with LSTM or Transformer models for improved forecasting accuracy.
 
 from pathlib import Path
 
