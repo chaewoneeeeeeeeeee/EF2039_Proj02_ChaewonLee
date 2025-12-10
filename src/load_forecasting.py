@@ -16,6 +16,8 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 # Added small comment to clarify forecasting pipeline
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
+# Added note: future improvement - try different model architectures
+
 
 
 def load_dataset(data_path: Path) -> pd.DataFrame:
